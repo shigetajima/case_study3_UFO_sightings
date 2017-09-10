@@ -16,5 +16,5 @@ Analyze the report data and investigate the following things.
 3. Unigram: top 3 unigrams are 'sky', 'look', 'object'. Top 4 Bigrams are: 'white light', 'bright light', 'red light', 'look like', 'light move'. The most popular Trigram is 'bright white light', and its frequency is three times more than the most popular trigram (bright red light).
 4. Seasonal analysis was performed by analyzing reports in January and July. data (since 2010) for each month/year is analyzed and found that top sightings happened during summer(especially July, August).
 
-## Team members
-Shige Tajima, Anusha Mohan, Urmi Mukherjee
+## Our team
+This case study was done by our team: Shige Tajima, Anusha Mohan, Urmi Mukherjee
