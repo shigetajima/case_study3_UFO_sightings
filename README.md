@@ -1,5 +1,6 @@
 # Unsupervised Learning Case study -- UFO sightings data analysis
 We analyzed UFO sighting data from  [The National UFO Reporting Center Online Database](http://www.nuforc.org/webreports.html) . The data (json file) was analyzed to get statistics and insights.
+The json file is too large to push it to github.
 
 ## EDA
 Analyze the report data and investigate the following things.
