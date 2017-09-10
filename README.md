@@ -17,4 +17,4 @@ Analyze the report data and investigate the following things.
 4. Seasonal analysis was performed by analyzing reports in January and July. data (since 2010) for each month/year is analyzed and found that top sightings happened during summer(especially July, August).
 
 ## Team members
-Shige Tajima, Anusha Mohen, Urmi Mukherjee
+Shige Tajima, Anusha Mohan, Urmi Mukherjee
